@@ -1,6 +1,12 @@
 # Diseño de Algoritmos Simples Utilizando PSeInt: Implementación de Estructuras de Control y Algoritmos Básicos
 
-**Resumen**—Este documento presenta la implementación y análisis de cuatro algoritmos fundamentales desarrollados en PSeInt como parte del aprendizaje de lógica de programación. Los algoritmos incluyen: cálculo de promedio aritmético, ordenamiento de listas con eliminación de duplicados, cálculo de área de triángulos y conversión de temperatura. El objetivo principal es demostrar la aplicación práctica de estructuras de control básicas y el desarrollo del pensamiento algorítmico. Los resultados muestran que todos los algoritmos funcionan correctamente, validando su eficacia para resolver problemas computacionales básicos. Este trabajo contribuye al fortalecimiento de competencias fundamentales en programación y lógica computacional.
+**Autor:** José Ángel Balbuena Palma
+**Institución:** INFOTEC
+**Correo electrónico:** josebalbuena181096@gmail.com
+**Fecha:** 29/06/2025
+**Curso:** Fundamentos del Desarrollo de Software – FDS2 VVG012
+
+**Resumen** — Este documento presenta la implementación y análisis de cuatro algoritmos fundamentales desarrollados en PSeInt como parte del aprendizaje de lógica de programación. Los algoritmos incluyen: cálculo de promedio aritmético, ordenamiento de listas con eliminación de duplicados, cálculo de área de triángulos y conversión de temperatura. El objetivo principal es demostrar la aplicación práctica de estructuras de control básicas y el desarrollo del pensamiento algorítmico. Los resultados muestran que todos los algoritmos funcionan correctamente, validando su eficacia para resolver problemas computacionales básicos. Este trabajo contribuye al fortalecimiento de competencias fundamentales en programación y lógica computacional.
 
 **Palabras clave**—algoritmos, pseudocódigo, PSeInt, estructuras de control, lógica de programación.
 
