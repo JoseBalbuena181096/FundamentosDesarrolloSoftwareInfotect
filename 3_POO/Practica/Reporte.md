@@ -332,7 +332,7 @@ El trabajo realizado establece fundamentos importantes para el desarrollo de com
 
 Los siguientes archivos .psc fueron generados durante la implementación:
 
-1. `Promedio.psc` - Algoritmo de cálculo de promedio aritmético
-2. `OrdenaLista.psc` - Algoritmo de ordenamiento de lista con eliminación de duplicados
-3. `AreaTriangulo.psc` - Algoritmo de cálculo de área de triángulo
-4. `ConversionTemperatura.psc` - Algoritmo de conversión de temperatura
+1. [Promedio.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/3_POO/Practica/Promedio.psc) - Algoritmo de cálculo de promedio aritmético
+2. [OrdenaLista.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/3_POO/Practica/OrdenaLista.psc) - Algoritmo de ordenamiento de lista con eliminación de duplicados
+3. [AreaTriangulo.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/3_POO/Practica/AreaTriangulo.psc) - Algoritmo de cálculo de área de triángulo
+4. [ConversionTemperatura.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/3_POO/Practica/ConversionTemperatura.psc) - Algoritmo de conversión de temperatura
