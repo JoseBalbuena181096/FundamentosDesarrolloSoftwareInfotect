@@ -1,5 +1,11 @@
 # Resolución de Problemas Complejos Utilizando Algoritmos: Implementación de Estructuras de Datos Avanzadas y Técnicas de Optimización
 
+Autor: José Ángel Balbuena Palma
+Institución: INFOTEC
+Correo electrónico: josebalbuena181096@gmail.com
+Fecha: 29/06/2025
+Curso: Fundamentos del Desarrollo de Software – FDS2 VVG012
+
 ## Resumen
 
 Este documento presenta la implementación y análisis de cinco algoritmos complejos desarrollados en PSeInt como parte del fortalecimiento de competencias en resolución de problemas computacionales. Los algoritmos incluyen: detección de duplicados en arreglos, inversión de cadenas, calculadora de edad, dispensadora de billetes y máquina expendedora. El objetivo principal es demostrar la aplicación práctica de estructuras de datos apropiadas y el desarrollo del pensamiento algorítmico avanzado. Los resultados muestran que todos los algoritmos funcionan correctamente, validando su eficacia para resolver problemas computacionales de mayor complejidad. Este trabajo contribuye al fortalecimiento de competencias avanzadas en programación y análisis de algoritmos.
