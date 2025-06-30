@@ -881,8 +881,8 @@ El trabajo realizado constituye un avance significativo en la comprensión de al
 
 Los siguientes archivos .psc fueron generados durante la implementación:
 
-1. **Duplicados.psc** - Algoritmo de detección de valores duplicados exactos
-2. **CadenaInversa.psc** - Algoritmo de inversión de cadenas de texto
-3. **CalculadoraEdad.psc** - Sistema de cálculo preciso de edad
-4. **DispensadoraBilletes.psc** - Sistema optimizado de dispensado de billetes
-5. **MaquinaExpendedora.psc** - Sistema completo de máquina expendedora
+1. [Duplicados.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/4_ResolucionProblemas/reporte/Duplicados.psc) - Algoritmo de detección de valores duplicados exactos
+2. [CadenaInversa.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/4_ResolucionProblemas/reporte/CadenaInversa.psc) - Algoritmo de inversión de cadenas de texto
+3. [CalculadoraEdad.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/4_ResolucionProblemas/reporte/CalculadoraEdad.psc) - Sistema de cálculo preciso de edad
+4. [DispensadoraBilletes.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/4_ResolucionProblemas/reporte/DispensadoraBilletes.psc) - Sistema optimizado de dispensado de billetes
+5. [MaquinaExpendedora.psc](https://github.com/JoseBalbuena181096/FundamentosDesarrolloSoftwareInfotect/blob/main/4_ResolucionProblemas/reporte/MaquinaExpendedora.psc) - Sistema completo de máquina expendedora
